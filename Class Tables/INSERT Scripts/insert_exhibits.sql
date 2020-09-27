@@ -1,0 +1,5 @@
+insert into exhibits values(1950,'20A','B1158')
+insert into exhibits values(1960,'20B','B1263')
+insert into exhibits values(1970,'21','B3544')
+insert into exhibits values(1980,'22','B2611')
+insert into exhibits values(1990,'22','B3544')

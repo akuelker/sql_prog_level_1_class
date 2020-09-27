@@ -1,0 +1,7 @@
+insert into jobs values('ACC','ACCOUNTANT',default,15,20)
+insert into jobs values('CUR','CURATOR',default,20.25,35)
+insert into jobs values('DEV','DEVELOPMENT',default,17.75,26.5)
+insert into jobs values('DIR','DIRECTOR',default,35.25,null)
+insert into jobs values('SEC','SECRETARY','NON-EXEMPT',9.85,15.75)
+insert into jobs values('TRC','TOUR COORDINATOR',default,17.5,26.5)
+insert into jobs values('TRG','TOUR GUIDE','NON-EXEMPT',8.5,12)
